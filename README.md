@@ -10,8 +10,6 @@ Tiles:
 
 |[ ]| - Wall, this will block your path
 
-|   | - Corridor, you can pass through here
-
 | K | - Key, collect all of these to unlock the door
 
 |[L]| - Locked door, requires all the keys to open
